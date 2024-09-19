@@ -7,6 +7,7 @@
 		"type": "git",
 		"url": "https://github.com/kimberli/spring-night-theme"
 	},
+  "license": "MIT",
   "engines": {
     "vscode": "^1.93.0"
   },
